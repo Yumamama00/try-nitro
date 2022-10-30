@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "dev": "npx nitropack dev",
-    "build": "npx nitropack build",
+    "dev": "nitropack dev",
+    "build": "nitropack build",
     "preview": "node .output/server/index.mjs"
   },
   "dependencies": {
